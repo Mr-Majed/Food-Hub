@@ -1,0 +1,129 @@
+body {
+  font-family: "Poiret One", cursive;
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-size: 50px;
+}
+.section {
+  display: flex;
+  margin-bottom: 100px;
+}
+.color-blue {
+  color: blue;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(rgb(4, 0, 255), rgb(71, 227, 255));
+  background-color: rgb(0, 17, 255);
+  padding: 10px 30px;
+  color: white;
+  font-size: 24px;
+  border-radius: 20px;
+}
+.link-button-2 {
+  text-decoration: none;
+  background-image: linear-gradient(rgba(255, 0, 0, 0.226), rgb(150, 56, 92));
+  background-color: rgb(255, 0, 43);
+  padding: 10px 30px;
+  color: white;
+  font-size: 24px;
+  border-radius: 20px;
+}
+.titel-2 {
+  font-size: 4em;
+  color: rgba(63, 57, 57, 0.685);
+}
+.box-sec {
+  display: flex;
+  text-align: center, justify;
+  margin: 5px 2px;
+}
+.text {
+  padding: 3%;
+  margin-top: 10px;
+  width: 70%;
+  text-align: justify;
+}
+.titel {
+  font-size: 5em;
+  height: 10%;
+}
+
+.background {
+  background-image: url(images/shapes/Frame\ 58.jpg);
+  background-repeat: no-repeat;
+}
+.picture-2 {
+  width: 100%;
+  size: 90%;
+}
+.recipies {
+  text-align: center;
+  color: rgba(63, 60, 60, 0.884);
+  padding: 2px 80px;
+}
+.box {
+  width: 30%;
+  margin-left: 2%;
+  margin-right: 1%;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 20px rgb(109, 104, 104);
+}
+.recipies-img {
+  padding: 2px;
+  width: 500px;
+  display: inline;
+}
+.uder-box-2 {
+  margin-left: 5px;
+  margin-right: 20px;
+  padding: 5px 40px;
+}
+.social-div {
+  text-align: center;
+  padding: 5px 10px;
+  font-size: 3em;
+  margin-top: 50px;
+}
+
+.social-button-1 {
+  background-image: linear-gradient(rgb(243, 0, 0), rgb(202, 29, 29));
+  background-color: rgb(255, 0, 0);
+  padding: 10px 50px;
+  color: white;
+  font-size: 40px;
+  border-radius: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.social-button-2 {
+  background-image: -moz-linear-gradient(rgb(236, 0, 79), rgb(199, 143, 143));
+  background-color: rgb(158, 0, 145);
+  padding: 10px 50px;
+  color: white;
+  font-size: 40px;
+  border-radius: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.social-button-3 {
+  background-image: -moz-linear-gradient(rgb(6, 2, 231), rgb(156, 156, 245));
+  background-color: rgb(29, 29, 184);
+  padding: 10px 50px;
+  color: white;
+  font-size: 40px;
+  border-radius: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
